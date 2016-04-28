@@ -1,7 +1,7 @@
-#Heartbeat.NET
+# Heartbeat.NET
 A free C# library that allows you to send heartbeats to defib.io through any managed programming language such as C#, Visual Basic and F#.
 
-##Get started
+## Get started
 I have included a simple sample in the solution of this project, if you however can not be arsed to look that up here is a very simple example that will failures and successfull heartbeats in a console window.
 ```
 using System;
@@ -38,5 +38,5 @@ namespace HeartbeatTest
 }
 ```
 
-##License
-Heartbeat.NET is free to use, however defib.io may charge for some services, please look it up before using this library! I AM NOT RESPONSIBLE FOR ANY COSTS.
+## License
+Heartbeat.NET is free to use under MIT, however defib.io may charge for some services, please look it up before using this library! I AM NOT RESPONSIBLE FOR ANY COSTS.
