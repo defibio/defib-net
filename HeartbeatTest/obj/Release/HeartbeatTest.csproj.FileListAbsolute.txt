@@ -1,0 +1,8 @@
+c:\Projects\C#\HeartbeatDotNet\HeartbeatTest\bin\Release\HeartbeatTest.exe.config
+c:\Projects\C#\HeartbeatDotNet\HeartbeatTest\bin\Release\HeartbeatTest.exe
+c:\Projects\C#\HeartbeatDotNet\HeartbeatTest\bin\Release\HeartbeatTest.pdb
+c:\Projects\C#\HeartbeatDotNet\HeartbeatTest\bin\Release\Heartbeat.NET.dll
+c:\Projects\C#\HeartbeatDotNet\HeartbeatTest\bin\Release\Heartbeat.NET.pdb
+c:\Projects\C#\HeartbeatDotNet\HeartbeatTest\obj\Release\HeartbeatTest.csprojResolveAssemblyReference.cache
+c:\Projects\C#\HeartbeatDotNet\HeartbeatTest\obj\Release\HeartbeatTest.exe
+c:\Projects\C#\HeartbeatDotNet\HeartbeatTest\obj\Release\HeartbeatTest.pdb

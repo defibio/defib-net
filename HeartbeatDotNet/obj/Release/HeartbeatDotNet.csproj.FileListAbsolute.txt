@@ -1,0 +1,5 @@
+c:\Projects\C#\HeartbeatDotNet\HeartbeatDotNet\bin\Release\Heartbeat.NET.dll
+c:\Projects\C#\HeartbeatDotNet\HeartbeatDotNet\bin\Release\Heartbeat.NET.pdb
+c:\Projects\C#\HeartbeatDotNet\HeartbeatDotNet\obj\Release\HeartbeatDotNet.csprojResolveAssemblyReference.cache
+c:\Projects\C#\HeartbeatDotNet\HeartbeatDotNet\obj\Release\Heartbeat.NET.dll
+c:\Projects\C#\HeartbeatDotNet\HeartbeatDotNet\obj\Release\Heartbeat.NET.pdb
