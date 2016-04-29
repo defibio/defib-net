@@ -32,7 +32,7 @@ namespace Heartbeat
         /// <param name="key">The key provided by defib.io which allows you to send heartbeats</param>
         public Defib(string key)
         {
-            requestHeader = "GET /heartbeat/receive/{0} HTTP /1.1"
+            requestHeader = "GET /heartbeat/receiver/{0} HTTP /1.1"
                 + "\r\nHost: {1}"
                 + "\r\nConnection: keep-alive"
                 + "\r\nAccept: text/html"
