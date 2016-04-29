@@ -68,8 +68,6 @@ namespace Heartbeat
 
                     string responseHeader = Encoding.ASCII.GetString(buffer);
 
-                    Console.WriteLine(responseHeader);
-
                     if (responseHeader.Contains("{"))
                     {
                         if (responseHeader.Contains("error"))
