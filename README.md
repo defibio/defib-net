@@ -1,4 +1,4 @@
-# Defib-NET
+# Defib-NET [![Build Status](https://travis-ci.org/coderiekelt/defib-net.svg?branch=sandb)](https://travis-ci.org/coderiekelt/defib-net)
 A free C# library that allows you to send heartbeats to defib.io through any managed programming language such as C# and Visual Basic.
 
 ## Get started

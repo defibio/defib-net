@@ -1,0 +1,9 @@
+C:\Projects\C#\HeartbeatDotNet\DefibNetTests\bin\Release\DefibNetTests.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNetTests\bin\Release\DefibNetTests.pdb
+C:\Projects\C#\HeartbeatDotNet\DefibNetTests\bin\Release\nunit.framework.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNetTests\bin\Release\nunit.framework.xml
+C:\Projects\C#\HeartbeatDotNet\DefibNetTests\obj\Release\DefibNetTests.csprojResolveAssemblyReference.cache
+C:\Projects\C#\HeartbeatDotNet\DefibNetTests\obj\Release\DefibNetTests.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNetTests\obj\Release\DefibNetTests.pdb
+C:\Projects\C#\HeartbeatDotNet\DefibNetTests\bin\Release\defib.net.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNetTests\bin\Release\defib.net.pdb
