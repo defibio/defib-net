@@ -1,0 +1,8 @@
+C:\Projects\C#\HeartbeatDotNet\DefibNetSample\bin\Debug\defibnetsample.exe.config
+C:\Projects\C#\HeartbeatDotNet\DefibNetSample\bin\Debug\defibnetsample.exe
+C:\Projects\C#\HeartbeatDotNet\DefibNetSample\bin\Debug\defibnetsample.pdb
+C:\Projects\C#\HeartbeatDotNet\DefibNetSample\bin\Debug\defib.net.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNetSample\bin\Debug\defib.net.pdb
+C:\Projects\C#\HeartbeatDotNet\DefibNetSample\obj\Debug\DefibNetSample.csprojResolveAssemblyReference.cache
+C:\Projects\C#\HeartbeatDotNet\DefibNetSample\obj\Debug\defibnetsample.exe
+C:\Projects\C#\HeartbeatDotNet\DefibNetSample\obj\Debug\defibnetsample.pdb

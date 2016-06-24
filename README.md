@@ -1,4 +1,4 @@
-# Defib-NET
+# Defib.Net [![Build Status](https://travis-ci.org/coderiekelt/defib-net.svg?branch=sandb)](https://travis-ci.org/coderiekelt/defib-net)
 A free C# library that allows you to send heartbeats to defib.io through any managed programming language such as C# and Visual Basic.
 
 ## Get started
@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Heartbeat;
+using DefibNet;
 
 namespace HeartbeatTest
 {
@@ -22,7 +22,7 @@ namespace HeartbeatTest
             Console.WriteLine("exceptions: 0");
             Console.WriteLine("failed: 0");
 
-            Heartbeat.Heartbeat heartbeat = new Heartbeat.Heartbeat("YOUR KEY HERE", 60);
+            Heartbeat heartbeat = new Heartbeat("YOUR KEY HERE", 60);
 
             while (true)
             {

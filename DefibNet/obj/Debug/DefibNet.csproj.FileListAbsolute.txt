@@ -1,0 +1,12 @@
+C:\Projects\C#\HeartbeatDotNet\DefibNet\bin\Debug\defib.net.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNet\bin\Debug\defib.net.pdb
+C:\Projects\C#\HeartbeatDotNet\DefibNet\obj\Debug\DefibNet.csprojResolveAssemblyReference.cache
+C:\Projects\C#\HeartbeatDotNet\DefibNet\obj\Debug\defib.net.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNet\obj\Debug\defib.net.pdb
+C:\Projects\C#\HeartbeatDotNet\DefibNet\bin\Debug\defib.net.dll.config
+C:\Projects\C#\HeartbeatDotNet\DefibNet\bin\Debug\RichardSzalay.MockHttp.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNet\bin\Debug\System.Net.Http.Extensions.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNet\bin\Debug\System.Net.Http.Primitives.dll
+C:\Projects\C#\HeartbeatDotNet\DefibNet\bin\Debug\System.Net.Http.Extensions.xml
+C:\Projects\C#\HeartbeatDotNet\DefibNet\bin\Debug\System.Net.Http.Primitives.xml
+C:\Projects\C#\HeartbeatDotNet\DefibNet\obj\Debug\DefibNet.csproj.App.config
