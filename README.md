@@ -1,4 +1,4 @@
-# Heartbeat.NET
+# Defib-NET
 A free C# library that allows you to send heartbeats to defib.io through any managed programming language such as C# and Visual Basic.
 
 ## Get started
