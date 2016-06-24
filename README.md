@@ -1,8 +1,8 @@
 # Heartbeat.NET
-A free C# library that allows you to send heartbeats to defib.io through any managed programming language such as C#, Visual Basic, F# and for the special snowflakes there's Boo compatibility.
+A free C# library that allows you to send heartbeats to defib.io through any managed programming language such as C# and Visual Basic.
 
 ## Get started
-I have included a simple sample in the solution of this project, if you however can not be arsed to look that up here is a very simple example that will failures and successfull heartbeats in a console window.
+I have included a simple sample in the solution of this project, if you however do not have the time to look that up here is a very simple example that will failures and successfull heartbeats in a console window.
 ```
 using System;
 using System.Collections.Generic;
@@ -22,7 +22,7 @@ namespace HeartbeatTest
             Console.WriteLine("exceptions: 0");
             Console.WriteLine("failed: 0");
 
-            Heartbeat.Heartbeat heartbeat = new Heartbeat.Heartbeat("TEST", 30);
+            Heartbeat.Heartbeat heartbeat = new Heartbeat.Heartbeat("YOUR KEY HERE", 60);
 
             while (true)
             {
@@ -39,4 +39,4 @@ namespace HeartbeatTest
 ```
 
 ## License
-Heartbeat.NET is free to use under MIT, however defib.io may charge for some services, please look it up before using this library! I AM NOT RESPONSIBLE FOR ANY COSTS.
+Defib-net is free to use under MIT, however we may charge for some services, please look it up before using this library!
