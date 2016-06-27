@@ -27,11 +27,11 @@ namespace HeartbeatTest
             while (true)
             {
                 Console.SetCursorPosition(11, 0);
-                Console.Write(Heartbeat.Reporter.beats);
+                Console.Write(Reporter.beats);
                 Console.SetCursorPosition(12, 1);
-                Console.Write(Heartbeat.Reporter.exceptions);
+                Console.Write(Reporter.exceptions);
                 Console.SetCursorPosition(8, 2);
-                Console.Write(Heartbeat.Reporter.errors);
+                Console.Write(Reporter.errors);
             }
         }
     }
