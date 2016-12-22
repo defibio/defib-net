@@ -15,7 +15,6 @@ namespace HeartbeatTest
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             Console.WriteLine("hearbeats: 0");
